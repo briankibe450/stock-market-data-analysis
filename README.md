@@ -37,8 +37,7 @@ a.	Candlestick graph v/s Volume: It is commonly used by financial analysts to un
 b.	Close Price graph: Simple raw time series the graph showing the variation of closing price.
 c.	High v/s Low Graph: Showing the daily max and min of the stock price.
 d.	Close v/s Low Graph: Showing the daily max and min price with closing price for the day.
-e.	Linear Trendline: Best fit linear line for the closing price over the time.
-f.	Normalised Closing Price v/s Volume: Comparing the closing price against volume by getting the y axis standardised to same range of 0-1.
+e.	Linear Trendline: Best fit linear line for the closing price over the timeng Price v/s Volume: Comparing the closing price against volume by getting the y axis standardised to same ranlge of 0-1.
 g.	Simple Moving Average: It is commonly used in financial technical analysis to smooth the short-term fluctuations to understand the market trend; will require user to input a window size.
  
 h.	Weighted Moving Average: It is used to understand market trend through focusing on the latest price by adding more weight to latest prices comparing to prior past data; will require user to input window size or weight.
