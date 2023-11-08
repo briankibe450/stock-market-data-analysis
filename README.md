@@ -1,4 +1,4 @@
-# NASDAQ-STOCK-MARKET-ANALYSIS-USING-PYTHON
+no# NASDAQ-STOCK-MARKET-ANALYSIS-USING-PYTHON
 Program Overview
 This project is a financial analytics project developed by my team (3 individuals) in the first semester of my master’s program in Business Analytics. The project was designed to allow advanced Business Analysts without programming knowledge to consult, analyse, and model stock time series. Descriptive and Predictive analytics were utilized to  provide the possibility of searching  for specific stocks, and querying specified time ranges along with associated analysis, such as statistical descriptions of prices and/or volume (mean, median, range, etc), technical indicators, visualisation (of the raw data, but also of transformations, such as moving averages), and even basic modelling (such as regression) as users can employ the program to predict future prices of various companies’ stocks to better decide what stocks to trade within a range of period.
 
@@ -54,7 +54,7 @@ b.	Enter the prediction date (past/present/future) for which you want to see the
 c.	The program will display the predicted price along with R2 error value and RMS Error value so that you can determine how accurately the price has been predicted. Also predicted price graph v/s actual price graph for the training window will be illustrated.
 2.	Predict stock price by using ARIMA Model:
 a.	Enter the from date and to date in format of (DD/MM/YYYY) for the duration you want to select as training window.
-b.	Enter the prediction date (future) for which you want to see the forecast price according to linear regression model.
+b.	Enter the prediction date (future) for which forecast price according to linear regression model.
 c.	The program will display the predicted price along with RMS Error value so that you can determine how accurately the price has been predicted. Also it will compare the actual price data used for testing the model within the training window v/s the predicted price for the tested price data.
 
 
