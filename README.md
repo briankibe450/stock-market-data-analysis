@@ -55,7 +55,7 @@ c.	The program will display the predicted price along with R2 error value and RM
 2.	Predict stock price by using ARIMA Model:
 a.	Enter the from date and to date in format of (DD/MM/YYYY) for the duration you want to select as training window.
 b.	Enter the prediction date (future) for which forecast price according to linear regression model.
-c.	The program will display the predicted price along with RMS Error value so that you can determine how accurately the price has been predicted. Also it will compare the actual price data used for testing the model within the training window v/s the predicted price for the tested price data.
+c.	The program will display the predicted price along wirice for the tested price data.
 
 
 Navigating tips:
