@@ -1,4 +1,4 @@
-no# NASDAQ-STOCK-MARKET-ANALYSIS-USING-PYTHON
+nono# NASDAQ-STOCK-MARKET-ANALYSIS-USING-PYTHON
 Program Overview
 This project is a financial analytics project developed by my team (3 individuals) in the first semester of my master’s program in Business Analytics. The project was designed to allow advanced Business Analysts without programming knowledge to consult, analyse, and model stock time series. Descriptive and Predictive analytics were utilized to  provide the possibility of searching  for specific stocks, and querying specified time ranges along with associated analysis, such as statistical descriptions of prices and/or volume (mean, median, range, etc), technical indicators, visualisation (of the raw data, but also of transformations, such as moving averages), and even basic modelling (such as regression) as users can employ the program to predict future prices of various companies’ stocks to better decide what stocks to trade within a range of period.
 
@@ -37,7 +37,7 @@ a.	Candlestick graph v/s Volume: It is commonly used by financial analysts to un
 b.	Close Price graph: Simple raw time series the graph showing the variation of closing price.
 c.	High v/s Low Graph: Showing the daily max and min of the stock price.
 d.	Close v/s Low Graph: Showing the daily max and min price with closing price for the day.
-e.	Linear Trendline: Best fit linear line for the closing price over the timeng Price v/s Volume: Comparing the closing price against volume by getting the y axis standardised to same ranlge of 0-1.
+e.	Linear Trendline: Best fit linear line for the closer the timeng Price v/s Volume: Comparing the closing price against volume by getting the y axis standardised to same ranlge of 0-1.
 g.	Simple Moving Average: It is commonly used in financial technical analysis to smooth the short-term fluctuations to understand the market trend; will require user to input a window size.
  
 h.	Weighted Moving Average: It is used to understand market trend through focusing on the latest price by adding more weight to latest prices comparing to prior past data; will require user to input window size or weight.
